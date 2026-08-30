@@ -16,9 +16,7 @@ The warehouse consolidates data from two source systems — **ERP** and **CRM** 
 ## Architecture
 
 The project follows the **Medallion Architecture**, consisting of three layers:
-
-![Data Architecture](Data_Architecture.drawio.svg)
-
+![Data Architecture]()
 ### Bronze Layer — Raw Data
 
 The Bronze layer stores the source data in its original form.
