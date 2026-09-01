@@ -159,4 +159,6 @@ Contains documentation for the architecture, data flow, data model, and data cat
 
 ## Acknowledgement
 
-This project was developed as a learning project while following the **SQL Data Warehouse Project by Data With Baraa**.
+Inspired by Data With Baraa’s SQL Data Warehouse project, with the implementation adapted and completed for learning and portfolio purposes.
+Original project:
+https://github.com/DataWithBaraa/sql-data-warehouse-project
