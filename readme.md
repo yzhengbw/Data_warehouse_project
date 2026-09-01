@@ -151,49 +151,12 @@ Contains documentation for the architecture, data flow, data model, and data cat
 
 - **SQL Server**
 - **SQL Server Management Studio (SSMS)**
-- **T-SQL**
 - **Draw.io**
 - **Git & GitHub**
 - **CSV**
 
 ---
 
-## Key Concepts Practised
-
-Through this project, I practised:
-
-- Data warehouse architecture
-- Medallion Architecture
-- ETL pipeline design
-- Data ingestion
-- Data cleaning and transformation
-- Data integration
-- SQL stored procedures
-- Data quality validation
-- Dimensional modeling
-- Fact and dimension tables
-- Star schema design
-- Surrogate keys
-- SQL project organisation and documentation
-
----
-
-## Future Work
-
-The current focus of this project is the **data engineering and data warehouse implementation**.
-
-Possible future extensions include:
-
-- Exploratory data analysis
-- Advanced SQL analytics
-- Business KPI development
-- Dashboard development
-- BI reporting
-
----
-
 ## Acknowledgement
 
 This project was developed as a learning project while following the **SQL Data Warehouse Project by Data With Baraa**.
-
-The implementation was completed as hands-on practice to strengthen my understanding of SQL, ETL pipelines, data warehouse architecture, and dimensional modeling.
